@@ -1,0 +1,9 @@
+@import '../../_setting.scss';
+.navbar-app-board {
+    background-color: $board-bg-color;
+    font-size: 1.5em;
+    padding-left: $gap;
+    display: flex;
+    align-items: center;
+
+}
